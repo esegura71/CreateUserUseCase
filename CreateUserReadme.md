@@ -30,7 +30,7 @@ final class CreateUserController extends BaseController
 }
 ````
 
-## Breve introducción de lo que abordaremos
+## Breve introducción de algunos conceptos que abordaremos
 
 **🏋️‍♂️ SOLID y CÓDIGO LIMPIO**
 
@@ -115,16 +115,32 @@ final class CreateUserController extends BaseController
 <br>
 <br>
 
-**🏋️‍♂️ Arquitectura Orientada a Eventos**
+**🏋️‍♂️ Diseño Dirigido por el Dominio**
 
-- Descripción de la arquitectura orientada a eventos y su relevancia en el backend.
-- Ejemplos de implementación de eventos y sus beneficios en sistemas distribuidos.
+- Ejemplos prácticos de cómo aplicar el lenguaje ubícuo y modelar el dominio de negocio de manera efectiva.
+- Como impulsar los requerimientos de negocio a lo mas profundo de nuestro dominio.
 - Antipatrones.
 
 <br>
 
 <div align="center">
   <img src="ddd.svg" alt="ddd">
+</div>
+
+<br>
+<br>
+<br>
+
+**🏋️‍🔬️ Desarrollo Dirigido por Pruebas**
+
+- Introducción a la metodología TDD y su importancia en el desarrollo de software.
+- Ciclo de desarrollo en TDD: Rojo -Verde -Refactorizar.
+- Beneficios de la implementación de TDD en el proceso de desarrollo.
+
+<br>
+
+<div align="center">
+  <img src="tdd.svg" alt="tdd">
 </div>
 
 <br>
