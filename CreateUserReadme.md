@@ -32,7 +32,9 @@ final class CreateUserController extends BaseController
 
 ## Temas a abordar
 
-![solid](solid.svg)
+![Texto solid](solid.svg)
+
+
 
 
 
