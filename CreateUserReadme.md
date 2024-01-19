@@ -31,6 +31,9 @@ final class CreateUserController extends BaseController
 ````
 
 ## Temas a abordar
-<img src="solid.png" alt="Laravel Logo" width="70%" height="70%">
+
+![solid](solid.svg)
+
+
 
 
