@@ -95,6 +95,10 @@ final class CreateUserController extends BaseController
   <img src="happy-path.png" alt="happy">
 </div>
 
+<br>
+<br>
+<br>
+
 **🏋️‍♂️ Arquitectura Orientada a Eventos**
 
 - Descripción de la arquitectura orientada a eventos y su relevancia en el backend.
@@ -106,3 +110,23 @@ final class CreateUserController extends BaseController
 <div align="center">
   <img src="event-driven-arquitecture.svg" alt="event-ar">
 </div>
+
+<br>
+<br>
+<br>
+
+**🏋️‍♂️ Arquitectura Orientada a Eventos**
+
+- Descripción de la arquitectura orientada a eventos y su relevancia en el backend.
+- Ejemplos de implementación de eventos y sus beneficios en sistemas distribuidos.
+- Antipatrones.
+
+<br>
+
+<div align="center">
+  <img src="ddd.svg" alt="ddd">
+</div>
+
+<br>
+<br>
+<br>
