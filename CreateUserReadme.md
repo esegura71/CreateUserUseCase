@@ -2,7 +2,7 @@
 
 <img src="laravel-2.svg" alt="Laravel Logo" width="100" height="50">
 
-### En este temario solo y unicamnte trabajaremos con el caso de uso de crear usuario!
+### En este temario trabajaremos con el caso de uso de crear usuario!
 
 ###### Que??? Solo eso??? Si yo en 10 lineas de mi controlador puedo hacerlo!😀
 
@@ -37,7 +37,8 @@ final class CreateUserController extends BaseController
 - Definición de SOLID y su importancia en el desarrollo de software.
 - Visión general de cada uno de los cinco principios.
 - ALgunos antipatrones.
--
+
+<br>
 
 <div align="center">
 <img src="solid.svg" alt="Solid Logo">
@@ -45,26 +46,47 @@ final class CreateUserController extends BaseController
 <br>
 <br>
 <br>
+
 **🏋️‍♂️ ARQUITECTURA HEXAGONAL**
 
 - Descripción de la Arquitectura Hexagonal y su relevancia en el desarrollo de software.
 - Exploración de las capas y principios fundamentales.
 - Ejemplos prácticos de implementación.
 
+<br>
+
 <div align="center">
 <img src="hexagonal-arquitecture.svg" alt="hexagonal Logo">
 </div>
+
 <br>
 <br>
 <br>
+
 **🏋️‍♂️ CQRS**
 
-- Definición de SOLID y su importancia en el desarrollo de software.
-- Visión general de cada uno de los cinco principios.
-- ALgunos antipatrones.
--
+- Definición y relevancia de CQRS en el desarrollo de software.
+- Principios clave de CQRS y su aplicación en un diseño limpio.
+- Ejemplos prácticos de implementación.
+- Read model y Write model.
+- Antipatrones comunes.
+
+<br>
 
 <div align="center">
   <img src="cqrs.svg" alt="cqrs Logo">
 </div>
 
+**🏋️‍♂️ Testing**
+
+- Definición y relevancia de CQRS en el desarrollo de software.
+- Principios clave de CQRS y su aplicación en un diseño limpio.
+- Ejemplos prácticos de implementación.
+- Read model y Write model.
+- Antipatrones comunes.
+
+<br>
+
+<div align="center">
+<img src="test-pyramid.svg" alt="Solid Logo">
+</div>
