@@ -6,7 +6,7 @@
 
 ###### Que??? Solo eso??? Si yo en 10 lineas de mi controlador puedo hacerlo!😀
 
-###### Efectivamente solo sera ese caso de uso, con una pequena diferencia!
+###### Efectivamente solo sera ese caso de uso, con una enorme diferencia!
 
 ### 🚀<span style="color:blue">SOBRE-INGENERIA DE SOFWARE!</span>🚀
 
@@ -30,10 +30,23 @@ final class CreateUserController extends BaseController
 }
 ````
 
-## Temas a abordar
+## Breve introducción de lo que abordaremos
+
+**🏋️‍♂️ SOLID y CÓDIGO LIMPIO**
+
+- Definición de SOLID y su importancia en el desarrollo de software.
+- Visión general de cada uno de los cinco principios.
+- ALgunos antipatrones.
 
 <img src="solid.svg" alt="Solid Logo">
 
+**🏋️‍♂️ ARQUITECTURA HEXAGONAL**
+
+- Descripción de la Arquitectura Hexagonal y su relevancia en el desarrollo de software.
+- Exploración de las capas y principios fundamentales.
+- Ejemplos prácticos de implementación.
+
+<img src="hexagonal-arquitecture.svg" alt="hexagonal Logo">
 
 
 
