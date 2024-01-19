@@ -32,7 +32,7 @@ final class CreateUserController extends BaseController
 
 ## Temas a abordar
 
-![Texto solid](solid.svg)
+<img src="solid.svg" alt="Solid Logo">
 
 
 
