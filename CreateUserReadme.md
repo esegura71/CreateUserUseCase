@@ -37,8 +37,11 @@ final class CreateUserController extends BaseController
 - Definición de SOLID y su importancia en el desarrollo de software.
 - Visión general de cada uno de los cinco principios.
 - ALgunos antipatrones.
+-
 
+<div align="center">
 <img src="solid.svg" alt="Solid Logo">
+</div>
 <br>
 <br>
 <br>
@@ -48,9 +51,20 @@ final class CreateUserController extends BaseController
 - Exploración de las capas y principios fundamentales.
 - Ejemplos prácticos de implementación.
 
+<div align="center">
 <img src="hexagonal-arquitecture.svg" alt="hexagonal Logo">
+</div>
+<br>
+<br>
+<br>
+**🏋️‍♂️ CQRS**
 
+- Definición de SOLID y su importancia en el desarrollo de software.
+- Visión general de cada uno de los cinco principios.
+- ALgunos antipatrones.
+-
 
-
-
+<div align="center">
+  <img src="cqrs.svg" alt="cqrs Logo">
+</div>
 
