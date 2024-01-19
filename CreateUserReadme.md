@@ -77,16 +77,20 @@ final class CreateUserController extends BaseController
   <img src="cqrs.svg" alt="cqrs Logo">
 </div>
 
-**🏋️‍♂️ Testing**
+**🏋️‍♂️Pirámide De Test**
 
-- Definición y relevancia de CQRS en el desarrollo de software.
-- Principios clave de CQRS y su aplicación en un diseño limpio.
-- Ejemplos prácticos de implementación.
-- Read model y Write model.
-- Antipatrones comunes.
+- **Pruebas Aceptación**
+- **Pruebas de Integración**
+- **Pruebas de Unitarias**
 
 <br>
 
 <div align="center">
-<img src="test-pyramid.svg" alt="Solid Logo">
+<img src="test-pyramid.svg" alt="Solid">
+</div>
+
+**🏋️‍HAPPY PATH**
+
+<div align="center">
+  <img src="happy-path.png" alt="happy">
 </div>
