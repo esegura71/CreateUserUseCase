@@ -18,8 +18,8 @@ alcanzar una implementación robusta y eficiente, empleando las arquitecturas cl
 
 ## Duración del Proyecto
 
-La dinámica está programada para un mes de trabajo, con 12 sesiones planificadas. Cada sesión tendrá una duración de 1 a
-1.30 minutos, proporcionando el tiempo adecuado para revisar, discutir y mejorar el código.
+La dinámica está programada para un mes de trabajo, con 12 sesiones planificadas. Cada sesión tendrá una duración de 1 hora a
+1 hora y media, proporcionando el tiempo adecuado para revisar, discutir y mejorar el código.
 
 ## Nivel de Complejidad
 
