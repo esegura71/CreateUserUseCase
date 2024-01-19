@@ -1,7 +1,9 @@
 # Temario - Caso de Uso: Crear Usuario
 
+<div display="flex" flex-direction-row>
 <img src="laravel-2.svg" alt="Laravel Logo" width="100" height="50">
 <img src="php.svg" alt="Laravel Logo" width="100" height="50">
+</div>
 
 ### En este temario trabajaremos con el caso de uso de crear usuario!
 
