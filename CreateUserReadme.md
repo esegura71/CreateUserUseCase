@@ -39,7 +39,9 @@ final class CreateUserController extends BaseController
 - ALgunos antipatrones.
 
 <img src="solid.svg" alt="Solid Logo">
-
+<br>
+<br>
+<br>
 **🏋️‍♂️ ARQUITECTURA HEXAGONAL**
 
 - Descripción de la Arquitectura Hexagonal y su relevancia en el desarrollo de software.
